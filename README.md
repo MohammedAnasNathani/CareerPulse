@@ -117,7 +117,7 @@ Before running this project, make sure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/MohammedAnasNathani/CareerPulse.git
 cd CareerPulse
 ```
 
